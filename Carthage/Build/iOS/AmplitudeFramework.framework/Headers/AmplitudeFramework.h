@@ -15,5 +15,4 @@ FOUNDATION_EXPORT double AmplitudeFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char AmplitudeFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AmplitudeFramework/PublicHeader.h>
-
-
+#import <AmplitudeFramework/Amplitude.h>
