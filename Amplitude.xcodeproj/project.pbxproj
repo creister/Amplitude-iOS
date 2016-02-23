@@ -34,7 +34,7 @@
 		9CC6F0C81C7BFEA700F71984 /* AMPConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = E96785E21A48E93F00887CCD /* AMPConstants.h */; };
 		9CC6F0C91C7BFEAA00F71984 /* AMPDatabaseHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 60BA92711C2376680043178E /* AMPDatabaseHelper.h */; };
 		9CC6F0CA1C7BFEAE00F71984 /* AMPDeviceInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = E96785E31A48E93F00887CCD /* AMPDeviceInfo.h */; };
-		9CC6F0CB1C7BFEB000F71984 /* AMPIdentify.h in Headers */ = {isa = PBXBuildFile; fileRef = 60BA92731C2376680043178E /* AMPIdentify.h */; };
+		9CC6F0CB1C7BFEB000F71984 /* AMPIdentify.h in Headers */ = {isa = PBXBuildFile; fileRef = 60BA92731C2376680043178E /* AMPIdentify.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9CC6F0CC1C7BFEB800F71984 /* Amplitude+SSLPinning.h in Headers */ = {isa = PBXBuildFile; fileRef = 9DC708561AD4A49E00949778 /* Amplitude+SSLPinning.h */; };
 		9CC6F0CD1C7BFEBB00F71984 /* AMPLocationManagerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E96785E81A48E93F00887CCD /* AMPLocationManagerDelegate.h */; };
 		9CC6F0CE1C7BFEBE00F71984 /* AMPURLConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D40E1791AB3BF7F0095C7C6 /* AMPURLConnection.h */; };
